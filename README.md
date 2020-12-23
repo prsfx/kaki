@@ -141,6 +141,16 @@ Otherwise it will be look like this:
 
 <br>
 
+## Bug
+
+__Build Error:__
+
+- I've tried compile to apk and test in Android. Splash screen, icon logo and other information works fine. But when load the application (*.apk) from Android screen show nothing.
+
+I think it's because merging 2 application.
+
+<br>
+
 ___
 
 ###### end of readme.
